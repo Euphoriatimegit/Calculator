@@ -1,0 +1,12 @@
+public interface Calculator {
+
+    String addition(String a, String b);
+
+    String subtraction(String a, String b);
+
+    String multiplication(String a, String b);
+
+    String division(String a, String b);
+
+
+}
